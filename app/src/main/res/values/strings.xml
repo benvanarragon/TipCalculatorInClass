@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TipCalculatorInClass</string>
+    <string name="bill_before_tip">Bill Before Tip</string>
+    <string name="total_label">Total</string>
+    <string name="tip_label">Tip</string>
+</resources>
